@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://github.com/JustinByrne/FM-Stats-preview-card-component/)
-- Live Site URL: [GitHub Page](https://justinbyrne.github.io/FM-Stats-preview-card-component/)
+- Solution URL: [GitHub Repo](https://github.com/JustinByrne/FM-four-card-feature-section)
+- Live Site URL: [GitHub Page](https://justinbyrne.github.io/FM-four-card-feature-section/)
 
 ## My process
 
