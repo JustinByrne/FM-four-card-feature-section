@@ -12,7 +12,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
   - [Author](#author)
 
 ## Overview
@@ -44,13 +43,6 @@ Users should be able to:
 - [Tailwind CSS](https://tailwindcss.com/) - CSS framework
 - [Browser-Sync](https://browsersync.io/) - Browser Hot Reload
 
-### What I learned
-
-As the requirement 
-
-```js
-TBC
-```
 
 ## Author
 
